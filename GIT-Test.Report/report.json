@@ -69,11 +69,11 @@
           "z": 2000.00
         },
         {
-          "config": "{\"name\":\"f4ecbbf6d5c0c340a04a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":478.7909319899244,\"y\":0,\"z\":4000,\"width\":361.10831234256926,\"height\":43.5264483627204,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Referral Predictions dashboard\",\"textStyle\":{\"fontSize\":\"18pt\",\"color\":\"#ffffff\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#4EB2D2'\"}}}}}}}]}}}",
+          "config": "{\"name\":\"f4ecbbf6d5c0c340a04a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":478.74015748031496,\"y\":0,\"z\":4000,\"width\":438.42519685039366,\"height\":43.674540682414694,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Referral Predictions dashboard test 1\",\"textStyle\":{\"fontSize\":\"18pt\",\"color\":\"#ffffff\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#4EB2D2'\"}}}}}}}]}}}",
           "filters": "[]",
-          "height": 43.53,
-          "width": 361.11,
-          "x": 478.79,
+          "height": 43.67,
+          "width": 438.43,
+          "x": 478.74,
           "y": 0.00,
           "z": 4000.00
         },
